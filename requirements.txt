@@ -1,0 +1,10 @@
+fastapi
+sqlmodel
+httpx
+sqlalchemy
+pymysql
+streamlit
+plotly
+pandas
+uvicorn
+cryptography
